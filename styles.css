@@ -1,0 +1,15 @@
+footer {
+  display: flex;
+  align-items: center;
+  height: 400px;
+}
+footer #box1 {
+  margin-top: 40px;
+}
+footer #listaFooter {
+  list-style: none;
+}
+footer #listaFooter li:hover {
+  padding-left: 10px;
+  transition: all 100ms;
+}/*# sourceMappingURL=styles.css.map */

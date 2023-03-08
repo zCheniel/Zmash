@@ -1,0 +1,20 @@
+footer{
+    display: flex;
+    align-items: center;
+    height: 400px;
+
+    #box1{
+       margin-top: 40px;
+    }
+
+    #listaFooter{
+        list-style: none;        
+    }
+
+    #listaFooter li:hover{
+        padding-left: 10px;
+        transition: all 100ms;
+    }
+    
+
+}
